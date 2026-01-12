@@ -1,34 +1,33 @@
 # AccuKnox AI/ML Assignment – Harshitha D G
 
-This repository contains my complete submission for the **AccuKnox AI/ML Trainee** assignment.
+This repository contains my complete written submission for the AccuKnox AI/ML Trainee assignment.
 
-##  Contents
+##  Files
 
 - **Harshitha_DG_AccuKnox_Assignment.pdf**  
-  Full written solution covering:
+  Contains full solutions for:
   - API data retrieval and SQLite storage  
   - Student score processing and visualization  
   - CSV data import to database  
   - LLM-based chatbot architecture  
-  - Vector databases and Retrieval-Augmented Generation (RAG)
+  - Vector databases and Retrieval-Augmented Generation (RAG)  
+  - Links to complex Python and database projects  
 
-- **Video Explanation**  
-  A 4-minute walkthrough video explaining the assignment, system design, and technical approach.
+- **Harshitha_DG_Resume.pdf**  
+  My latest resume.
 
-##  What This Assignment Covers
+##  About the Submission
 
-- Real-world API integration and data persistence  
-- Data processing and visualization using Python  
-- Database design and transactional logic  
-- LLM system architecture using RAG  
-- Vector database usage for semantic search  
+The assignment demonstrates my approach to designing AI-driven systems that combine:
+- Data engineering
+- Databases
+- Machine learning
+- LLM-based retrieval pipelines  
+
+The solutions focus on building reliable, scalable, and cloud-ready systems, aligned with AccuKnox’s work in zero-trust and cloud-native security.
 
 ##  My Links
 
-- Portfolio: https://harshithadevanga.lovable.app  
-- GitHub: https://github.com/HarshithaDevanga  
-- LinkedIn: https://linkedin.com/in/harshitha-d-g  
-
----
-
-This repository provides both **written and visual explanations** of my approach to building AI-driven, cloud-ready systems aligned with AccuKnox’s focus on security and zero-trust platforms.
+Portfolio: https://harshithadevanga.lovable.app  
+GitHub: https://github.com/HarshithaDevanga  
+LinkedIn: https://linkedin.com/in/harshitha-d-g  
